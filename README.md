@@ -15,5 +15,5 @@ https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github
 
 
 * et enfin,  _**git commit**_  pour réaliser un "commit".
-Plus présicément,  _**git commit -m "<< commentaires>>" **_ 
+Plus précisément,  _**git commit -m "<< commentaires>>"**_ 
 
